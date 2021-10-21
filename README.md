@@ -9,7 +9,7 @@
 
 ## How to use?
 
-Inside the Folder: **Scripts** there are 2 files you need to dowload.
+The following files have to downloaded!.
 
 - **ShowMobileKeyboard.cs**
   > This script needs to be on every single inputfield in order for it to work properly!
